@@ -8,7 +8,7 @@
     <form action="#" name="myForm">
       <h3 class="display" id="resultDiv"> </h3>
       <div>
-        <input type="text" id="word" placeholder="Please type text here" />
+        <input type="text" id="word" placeholder="Please type text !" />
 
       </div>
       <div>
@@ -22,3 +22,5 @@
 </body>
 
 </html>
+
+<span>hhjjjjj</span>
